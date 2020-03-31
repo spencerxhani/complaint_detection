@@ -3,7 +3,7 @@ astroid==2.3.3
 attrs==19.3.0
 backcall==0.1.0
 bert-document-classification==1.0.0
-bleach==3.1.0
+bleach==3.1.4
 boto3==1.11.7
 botocore==1.14.7
 certifi==2019.11.28
